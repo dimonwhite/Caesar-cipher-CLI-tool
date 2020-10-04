@@ -19,7 +19,7 @@ npm i
 
 ## Usage example
 ```
-node index -a <encode|decode> -s <number> [-i <input.txt>] [-o <output.txt>]
+node caesar -a <encode|decode> -s <number> [-i <input.txt>] [-o <output.txt>]
 ```
 ```
 node caesar -a encode -s 7 -i "./input.txt" -o "./output.txt"
